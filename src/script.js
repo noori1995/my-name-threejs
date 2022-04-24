@@ -11,7 +11,7 @@ import typefaceFont from 'three/examples/fonts/helvetiker_regular.typeface.json'
  * Base
  */
 // Debug
-const gui = new dat.GUI()
+// const gui = new dat.GUI()
 
 // Canvas
 const canvas = document.querySelector('canvas.webgl')
